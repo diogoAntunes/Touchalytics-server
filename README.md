@@ -1,4 +1,4 @@
-# Thouchalytics for Node.js
+# Touchalytics for Node.js
 
 [Touchalytics](http://www.mariofrank.net/touchalytics/) Node.js implementation.
 
