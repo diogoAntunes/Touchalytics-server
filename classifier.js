@@ -50,8 +50,6 @@ exports.classify = function(predictionSet, model, callback){
 		predictions.push(prediction);
 	});
 
-	console.log("P: " + predictions);
-
 	return callback(maxOccurrence(predictions));
 
 };
